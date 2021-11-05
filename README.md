@@ -53,3 +53,13 @@
 <li>Métodos estáticos</li>
 
 <li>Maneiras de tratar objetos de diferentes tipos de maneira parecida</li>
+
+<li>operador in</li>
+
+<li>operador instanceOf</li>
+
+<li>Como proteger nossos sistemas</li>
+
+<li>interfaces padronizadas</li>
+
+<li>Ducky Type</li>
